@@ -1,0 +1,48 @@
+state,date,order_type
+Alabama ,2020-04-04,Stay at home
+Alaska ,2020-03-28,Stay at home
+Arizona ,2020-03-31,Stay at home
+California ,2020-03-19,Stay at home
+Colorado ,2020-03-26,Stay at home
+Connecticut ,2020-03-23,Stay at home
+Delaware ,2020-03-24,Shelter in place
+District of Columbia ,2020-04-01,Stay at home
+Florida ,2020-04-03,Stay at home
+Georgia ,2020-04-03,Shelter in place
+Hawaii ,2020-03-25,Stay at home
+Idaho ,2020-03-25,Stay at home
+Illinois ,2020-03-21,Stay at home
+Indiana ,2020-03-24,Stay at home
+Kansas ,2020-03-30,Stay at home
+Kentucky ,2020-03-26,Healthy at home
+Louisiana ,2020-03-23,Stay at home
+Maine ,2020-04-02,Stay at home
+Maryland ,2020-03-30,Stay at home
+Massachusetts ,2020-03-24,Stay at home advisory
+Michigan ,2020-03-24,Stay at home
+Minnesota ,2020-03-27,Stay at home
+Mississippi ,2020-04-03,Shelter in place
+Missouri ,2020-04-06,Stay at home
+Montana ,2020-03-28,Stay at home
+Nevada ,2020-04-01,Stay at home
+New Hampshire ,2020-03-27,Stay at home
+New Jersey ,2020-03-21,Stay at home
+New Mexico ,2020-03-24,Stay at home
+New York ,2020-03-22,Stay at home
+North Carolina ,2020-03-30,Stay at home
+Ohio ,2020-03-23,Stay at home
+Oklahoma,2020-04-06,Varying
+Oregon ,2020-03-23,Stay at home
+Pennsylvania ,2020-04-01,Stay at home
+Puerto Rico ,2020-03-15,Curfew
+Rhode Island ,2020-03-28,Stay at home
+South Carolina ,2020-04-07,Stay at home 
+Tennessee ,2020-03-31,Stay at home
+Texas ,2020-04-02,Stay at home
+Utah,2020-04-01,Varying
+Vermont ,2020-03-25,Stay at home
+Virginia ,2020-03-30,Stay at home
+Washington ,2020-03-23,Stay at home
+West Virginia ,2020-03-24,Stay at home
+Wisconsin ,2020-03-25,Stay at home
+Wyoming,2020-03-28,Stay at home
