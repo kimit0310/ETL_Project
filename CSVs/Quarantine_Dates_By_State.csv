@@ -1,53 +1,53 @@
-state,date,order_type
-Alabama ,2020-04-04 00:00:00,Stay at home
-Alaska ,2020-03-28 00:00:00,Stay at home
-Arizona ,2020-03-31 00:00:00,Stay at home
-Arkansas,NaN,NaN
-California ,2020-03-19 00:00:00,Stay at home
-Colorado ,2020-03-26 00:00:00,Stay at home
-Connecticut ,2020-03-23 00:00:00,Stay at home
-Delaware ,2020-03-24 00:00:00,Shelter in place
-District of Columbia ,2020-04-01 00:00:00,Stay at home
-Florida ,2020-04-03 00:00:00,Stay at home
-Georgia ,2020-04-03 00:00:00,Shelter in place
-Hawaii ,2020-03-25 00:00:00,Stay at home
-Idaho ,2020-03-25 00:00:00,Stay at home
-Illinois ,2020-03-21 00:00:00,Stay at home
-Indiana ,2020-03-24 00:00:00,Stay at home
-Iowa,NaN,NaN
-Kansas ,2020-03-30 00:00:00,Stay at home
-Kentucky ,2020-03-26 00:00:00,Healthy at home
-Louisiana ,2020-03-23 00:00:00,Stay at home
-Maine ,2020-04-02 00:00:00,Stay at home
-Maryland ,2020-03-30 00:00:00,Stay at home
-Massachusetts ,2020-03-24 00:00:00,Stay at home advisory
-Michigan ,2020-03-24 00:00:00,Stay at home
-Minnesota ,2020-03-27 00:00:00,Stay at home
-Mississippi ,2020-04-03 00:00:00,Shelter in place
-Missouri ,2020-04-06 00:00:00,Stay at home
-Montana ,2020-03-28 00:00:00,Stay at home
-Nebraska,NaN,NaN
-Nevada ,2020-04-01 00:00:00,Stay at home
-New Hampshire ,2020-03-27 00:00:00,Stay at home
-New Jersey ,2020-03-21 00:00:00,Stay at home
-New Mexico ,2020-03-24 00:00:00,Stay at home
-New York ,2020-03-22 00:00:00,Stay at home
-North Carolina ,2020-03-30 00:00:00,Stay at home
-North Dakota,NaN,NaN
-Ohio ,2020-03-23 00:00:00,Stay at home
-Oklahoma,2020-04-06 00:00:00,Varying
-Oregon ,2020-03-23 00:00:00,Stay at home
-Pennsylvania ,2020-04-01 00:00:00,Stay at home
-Puerto Rico ,2020-03-15 00:00:00,Curfew
-Rhode Island ,2020-03-28 00:00:00,Stay at home
-South Carolina ,2020-04-07 00:00:00,Stay at home 
-South Dakota,NaN,NaN
-Tennessee ,2020-03-31 00:00:00,Stay at home
-Texas ,2020-04-02 00:00:00,Stay at home
-Utah,2020-04-01 00:00:00,Varying
-Vermont ,2020-03-25 00:00:00,Stay at home
-Virginia ,2020-03-30 00:00:00,Stay at home
-Washington ,2020-03-23 00:00:00,Stay at home
-West Virginia ,2020-03-24 00:00:00,Stay at home
-Wisconsin ,2020-03-25 00:00:00,Stay at home
-Wyoming,2020-03-28 00:00:00,Stay at home
+state,date,order_type,state_id
+Alabama ,4/4/20 0:00,Stay at home,1
+Alaska ,3/28/20 0:00,Stay at home,2
+Arizona ,3/31/20 0:00,Stay at home,3
+Arkansas,N/A,N/A,4
+California ,3/19/20 0:00,Stay at home,5
+Colorado ,3/26/20 0:00,Stay at home,6
+Connecticut ,3/23/20 0:00,Stay at home,7
+Delaware ,3/24/20 0:00,Shelter in place,8
+District of Columbia ,4/1/20 0:00,Stay at home,9
+Florida ,4/3/20 0:00,Stay at home,10
+Georgia ,4/3/20 0:00,Shelter in place,11
+Hawaii ,3/25/20 0:00,Stay at home,12
+Idaho ,3/25/20 0:00,Stay at home,13
+Illinois ,3/21/20 0:00,Stay at home,14
+Indiana ,3/24/20 0:00,Stay at home,15
+Iowa,N/A,N/A,16
+Kansas ,3/30/20 0:00,Stay at home,17
+Kentucky ,3/26/20 0:00,Healthy at home,18
+Louisiana ,3/23/20 0:00,Stay at home,19
+Maine ,4/2/20 0:00,Stay at home,20
+Maryland ,3/30/20 0:00,Stay at home,21
+Massachusetts ,3/24/20 0:00,Stay at home advisory,22
+Michigan ,3/24/20 0:00,Stay at home,23
+Minnesota ,3/27/20 0:00,Stay at home,24
+Mississippi ,4/3/20 0:00,Shelter in place,25
+Missouri ,4/6/20 0:00,Stay at home,26
+Montana ,3/28/20 0:00,Stay at home,27
+Nebraska,N/A,N/A,28
+Nevada ,4/1/20 0:00,Stay at home,29
+New Hampshire ,3/27/20 0:00,Stay at home,30
+New Jersey ,3/21/20 0:00,Stay at home,31
+New Mexico ,3/24/20 0:00,Stay at home,32
+New York ,3/22/20 0:00,Stay at home,33
+North Carolina ,3/30/20 0:00,Stay at home,34
+North Dakota,N/A,N/A,35
+Ohio ,3/23/20 0:00,Stay at home,36
+Oklahoma,4/6/20 0:00,Varying,37
+Oregon ,3/23/20 0:00,Stay at home,38
+Pennsylvania ,4/1/20 0:00,Stay at home,39
+Puerto Rico ,3/15/20 0:00,Curfew,40
+Rhode Island ,3/28/20 0:00,Stay at home,41
+South Carolina ,4/7/20 0:00,Stay at home ,42
+South Dakota,N/A,N/A,43
+Tennessee ,3/31/20 0:00,Stay at home,44
+Texas ,4/2/20 0:00,Stay at home,45
+Utah,4/1/20 0:00,Varying,46
+Vermont ,3/25/20 0:00,Stay at home,47
+Virginia ,3/30/20 0:00,Stay at home,48
+Washington ,3/23/20 0:00,Stay at home,49
+West Virginia ,3/24/20 0:00,Stay at home,50
+Wisconsin ,3/25/20 0:00,Stay at home,51
+Wyoming,3/28/20 0:00,Stay at home,52
